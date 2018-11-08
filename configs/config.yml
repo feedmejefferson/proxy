@@ -1,0 +1,4 @@
+name: sample-config
+models:
+        - modelUrl: netty4-http:http://localhost:9000/hunger.json
+          weight: 10

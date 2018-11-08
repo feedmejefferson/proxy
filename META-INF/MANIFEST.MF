@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: dscheffy
+Class-Path: netty-all-4.1.31.Final.jar camel-netty4-http-2.22.1.jar ca
+ mel-netty4-2.22.1.jar commons-pool-1.6.jar camel-http-common-2.22.1.j
+ ar javax.servlet-api-3.1.0.jar jaxb-core-2.3.0.1.jar jaxb-impl-2.3.0.
+ 1.jar camel-snakeyaml-2.22.1.jar camel-core-2.22.1.jar snakeyaml-1.21
+ .jar slf4j-api-1.7.25.jar
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_60
+Main-Class: com.feedmejefferson.proxy.HungerProxy
+
